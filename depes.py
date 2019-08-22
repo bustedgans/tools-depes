@@ -15,7 +15,7 @@ y = '\033[33;1m'
 
 print ('\033[31;1m[-------------------Tools Depes----------------]')
 print ('\033[37;1m[               Author : Insan Gans            ]')
-print ('\033[31;1m[             Team : FRI3NDS CYBER ARMY        ]')
+print ('\033[31;1m[             Team : ATTACKER NETWORK TEAM     ]')
 print ('\033[37;1m[             Contact Me : 081212683289        ]')
 print ('\033[31;1m[----------------------------------------------]')
 print('')
